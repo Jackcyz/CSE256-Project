@@ -7,7 +7,7 @@ torchtext (version == 0.6.0)\
 numpy\
 matplotlib\
 tqdm\
-sklearn\
+sklearn
 
 ## Results
 | Model                               | Accuracy                 |
