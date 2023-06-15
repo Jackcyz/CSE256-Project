@@ -16,6 +16,6 @@ sklearn
 | Convolutional Nerual Network        | 0.8017(10 epochs)        |
 | Long Short-term Memory Network      | 0.5175(10 epochs)        |
 | Bert-base                           | 0.941                    |
-| T5                                  |                          |
+| T5-base                             | 0.950                    |
 
 
